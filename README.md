@@ -8,7 +8,7 @@ State of coroutine stored in object.
 
 Example:
 
-```
+```cpp
 class CheckUserExists: public coroutine
 {
 public:
